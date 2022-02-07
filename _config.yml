@@ -23,7 +23,7 @@ email: someplacesolo@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://solosome.place" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://someplacesolo.info" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  mxddi
 
 # Build settings
