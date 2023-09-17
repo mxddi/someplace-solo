@@ -1,1 +1,1 @@
-# AM-ABROAD
+# Personal website dedicated to my travel experiences.
